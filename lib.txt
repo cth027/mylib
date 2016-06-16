@@ -1,3 +1,4 @@
-this is a first
+delta-inserted 
+This is a first
 file in my shared library
 just to see.
