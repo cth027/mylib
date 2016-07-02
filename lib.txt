@@ -1,5 +1,4 @@
 this is a first
 file in my shared library
-replaced line
 new line
 And add a line
