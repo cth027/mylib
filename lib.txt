@@ -1,3 +1,5 @@
 this is a first
 file in my shared library
-just to see.
+replaced line
+new line
+And add a line
